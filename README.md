@@ -1,6 +1,4 @@
 # -Bank-Customers-Churn-Prediction-using-ML
-Bank Customers Churn Prediction
-
 This project focuses on predicting customer churn (whether a bank customer will leave or stay) using machine learning models.
 
  Key Steps:
